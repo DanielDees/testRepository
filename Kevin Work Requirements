@@ -1,13 +1,15 @@
-git, git in team workflows.
-vagrant / vagrant to install linux.
-linux, ubuntu, cmdline
+Learn Git
+Learn Git in team workflows.
+Vagrant / Vagrant to install linux.
+Linux, Ubuntu, learn command line
 nginex
-php, phpfpm
-ssh
-mysql
+Learn PHP
+Learn PHPfpm
+Learn about SSH
+Learn mySQL
 
-todo list php/mysql. then as mvc app.
+Make a ToDo list in PHP/mySQL. Then turn it into mvc app.
 
-laracasts
+Laracasts are good learning tutorials
 
-dont install php on mac.
+Note: Don’t install PHP on mac.
