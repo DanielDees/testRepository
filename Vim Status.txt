@@ -1,5 +1,7 @@
 Known Vim commands:
 	i (to write text to file)
-	w (to write changes / save file)
-	q (exit)
+	:w (to write changes)
+	:q (exit)
 	: (last line mode)
+	:e <filename> (open file)
+	:wq (save and quit)
