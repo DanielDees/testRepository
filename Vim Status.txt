@@ -1,0 +1,11 @@
+Known Cmd commands:
+	cd
+	cd <directory location>
+	pwd
+	ls
+	ls -a
+	ls -al
+	rm <file>
+	rm -r <folder>
+	rm -rf <file>
+	open <file>
