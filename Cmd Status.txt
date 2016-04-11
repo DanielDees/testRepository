@@ -4,6 +4,7 @@ Known Cmd commands:
 	pwd
 	ls
 	ls -a
+	ls -l
 	ls -al
 	rm <file>
 	rm -r <folder>
