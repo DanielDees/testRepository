@@ -1,0 +1,22 @@
+Known Git commands:
+	git init
+	git remote show origin
+	git remote add origin <https link here>
+	git status
+	git add
+	git add .
+	git add *.fileExtensionHere
+	git commit
+	git commit -m
+	git push
+	git push -f
+	git push origin <branch>
+	git push —set-upstream origin <branch>
+	git checkout -b newBranch
+	git checkout master
+	git pull
+	git pull -f
+	git pull origin <branch>
+	git reflog
+	git log
+	git reset <commit>
