@@ -1,5 +1,8 @@
 Known Vim commands:
 	i (to write text to file)
+	x (delete)
+	u (undo)
+	U (undo all changes on that line)
 	:w (to write changes)
 	:q (exit)
 	: (last line mode)
