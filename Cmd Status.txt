@@ -5,5 +5,7 @@ Known Cmd commands:
 	ls
 	ls -a
 	ls -al
+	rm <file>
+	rm -r <folder>
 	rm -rf <file>
 	open <file>

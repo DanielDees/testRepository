@@ -12,8 +12,8 @@ Known Git commands:
 	git push -f
 	git push origin <branch>
 	git push —set-upstream origin <branch>
-	git checkout -b newBranch
-	git checkout master
+	git checkout -b <newBranch>
+	git checkout <branch>
 	git pull
 	git pull -f
 	git pull origin <branch>
@@ -21,4 +21,7 @@ Known Git commands:
 	git log
 	git reset <commit>
 	git reset —-hard <commit>
+	git merge <branch1> <branch2>
+	git branch
+	git branch -D <branchToDelete>
 	gitk
