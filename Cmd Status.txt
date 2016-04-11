@@ -10,3 +10,5 @@ Known Cmd commands:
 	rm -r <folder>
 	rm -rf <file>
 	open <file>
+	echo <text> > <filename>
+	echo <text> >> <filename>
