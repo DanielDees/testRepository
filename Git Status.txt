@@ -24,4 +24,5 @@ Known Git commands:
 	git merge <branch1> <branch2>
 	git branch
 	git branch -D <branchToDelete>
+	git diff <branch1> <branch2>
 	gitk
