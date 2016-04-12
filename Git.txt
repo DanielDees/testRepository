@@ -11,6 +11,7 @@ Known Git commands:
 	git push
 	git push -f
 	git push origin <branch>
+	git push origin <version>
 	git push —set-upstream origin <branch>
 	git checkout -b <newBranch>
 	git checkout <branch>
