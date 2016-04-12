@@ -13,6 +13,7 @@ Known Cmd commands:
 	rm -f <file>
 	rm -r <folder>
 	rm -rf <file>
+	mv <file> <newFileName> (I know how to rename files this way, not sure how mv is to be used outside of renaming though)
 	open <file>
 	echo <text> > <filename>
 	echo <text> >> <filename>
