@@ -5,6 +5,7 @@ Known Vim commands:
 	U (undo all changes on that line)
 	:w (to write changes)
 	:q (exit)
+	:q! (exit without saving)
 	: (last line mode)
 	:e <filename> (open file)
 	:wq (save and quit)
