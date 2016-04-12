@@ -1,6 +1,8 @@
 Known Cmd commands:
 	cd
 	cd <directory location>
+	cd .
+	cd ..
 	pwd
 	ls
 	ls -a
