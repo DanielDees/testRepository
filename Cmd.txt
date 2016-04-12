@@ -17,3 +17,10 @@ Known Cmd commands:
 	open <file>
 	echo <text> > <filename>
 	echo <text> >> <filename>
+
+===========
+From a prior networking class I also know
+
+	ifconfig
+
+===========
