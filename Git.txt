@@ -31,3 +31,4 @@ Known Git commands:
 	git branch -D <branchToDelete>
 	git diff <branch1> <branch2>
 	gitk
+	git tag -a <version>
