@@ -7,8 +7,10 @@ Known Cmd commands:
 	ls
 	ls -a
 	ls -l
+	ls -1
 	ls -al
 	rm <file>
+	rm -f <file>
 	rm -r <folder>
 	rm -rf <file>
 	open <file>
