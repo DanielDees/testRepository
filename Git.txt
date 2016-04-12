@@ -12,6 +12,7 @@ Known Git commands:
 	git push -f
 	git push origin <branch>
 	git push origin <version>
+	git push origin --tags
 	git push —set-upstream origin <branch>
 	git checkout -b <newBranch>
 	git checkout <branch>
