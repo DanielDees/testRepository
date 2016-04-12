@@ -19,6 +19,9 @@ Known Git commands:
 	git pull origin <branch>
 	git reflog
 	git log
+	git log --oneline
+	git log --decorate
+	git log --graph
 	git reset <commit>
 	git reset —-hard <commit>
 	git merge <branch1> <branch2>
