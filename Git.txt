@@ -23,6 +23,7 @@ Known Git commands:
 	git log --decorate
 	git log --graph
 	git log --name-status
+	git log --ammend
 	git reset <commit>
 	git reset —-hard <commit>
 	git merge <branch1> <branch2>
